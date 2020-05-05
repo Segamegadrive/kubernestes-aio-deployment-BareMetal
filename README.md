@@ -1,4 +1,4 @@
-# kubernestes-aio-deployment-BareMetal
+# kubernestes-aio-deployment
 
 The script helps to deploy aio kubernetes on Ubuntu 18.04.
 
