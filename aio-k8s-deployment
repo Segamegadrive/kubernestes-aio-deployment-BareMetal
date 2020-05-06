@@ -217,6 +217,8 @@ apt install git
 echo "---> Swap turn off"
 swapoff -a
 sleep 1
+
+#For VM installation / For Baremetal not required
 echo "---> nested virtualization"
 ./nested_node.sh
 
