@@ -1,6 +1,6 @@
 # kubernestes-aio-deployment
 
-The script helps to deploy aio kubernetes on Ubuntu 18.04.
+The script helps to deploy AIO Docker & Kubernetes on the bare-metal server.
 
 Make sure to be at root: 
 
